@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C?
+Change Component Designator: OldDesignator=C2 NewDesignator=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C?
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Change Component Designator: OldDesignator=D3 NewDesignator=D?
+Change Component Designator: OldDesignator=F1 NewDesignator=F?
+Change Component Designator: OldDesignator=F2 NewDesignator=F?
+Change Component Designator: OldDesignator=F3 NewDesignator=F?
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Change Component Designator: OldDesignator=P2 NewDesignator=P?
+Change Component Designator: OldDesignator=P3 NewDesignator=P?
+Change Component Designator: OldDesignator=P4 NewDesignator=P?
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Change Component Designator: OldDesignator=R3 NewDesignator=R?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Change Component Designator: OldDesignator=R6 NewDesignator=R?
+Change Component Designator: OldDesignator=R7 NewDesignator=R?
+Change Component Designator: OldDesignator=R8 NewDesignator=R?
+Change Component Designator: OldDesignator=R9 NewDesignator=R?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetF1_1 New Net Name=NetF?_1
+Change Net Name : Old Net Name=NetF2_1 New Net Name=NetF?_1
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetQ?_3
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ?_3
+Change Net Name : Old Net Name=NetQ3_3 New Net Name=NetQ?_3
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR?_1
